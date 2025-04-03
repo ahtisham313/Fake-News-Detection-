@@ -7,7 +7,7 @@ This project builds a fake news detection system using machine learning. It prep
 - `Fake_News_Detection_Report.pdf`: A short report summarizing the approach, challenges, and performance.
 - `fake_news_model.pkl`: Saved Naïve Bayes model.
 - `tfidf_vectorizer.pkl`: Saved TF-IDF vectorizer.
-- `Dataset`: both true and fake csv files.
+- `Dataset`: you have to download fron kaggle.com i.e fake news detection dataset.
 
 ## How to Run
 1. Open `Fake_News_Detection.ipynb` in Google Colab.
